@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonatan-Diaz
-- 👀 I’m interested in web development. (FrontEnd)
-- 🌱 I finished Google Project Management Certificate last month and I’m currently taking Google UX Design Certificate, I also finished Microsoft Azure Fudamentals.
-- 📫 How to reach me jonatandz320@gmail.com. 
+- 👋 Hi, I’m @Jonatan-Diaz, and I´m currently studying the final semesters of my career, which is Systems engineering 🖥️
+- 👀 I’m interested in web development (FrontEnd), however, I´ve been learning a lot of Backend lately.
+- 🌱 I finished Google Project Management Certificate and I’m currently taking Google UX Design Certificate, I also finished Microsoft Azure Fudamentals. Furthermore, I´ve been preparing myself with Cybersecurity topics.
+- 📫 You can reach me by Gmail: jonatandz320@gmail.com or LinkedIn: https://www.linkedin.com/in/jonatan-diaz-71a89a216
